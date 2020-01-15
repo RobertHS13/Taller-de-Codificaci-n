@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\bin\Debug\TallerCodificacion.exe.config
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\bin\Debug\TallerCodificacion.exe
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\bin\Debug\TallerCodificacion.pdb
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.Form1.resources
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.exe
+C:\Users\Usuario\source\repos\TallerCodificacion\TallerCodificacion\obj\Debug\TallerCodificacion.pdb
